@@ -1,0 +1,38 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# npm debug files
+npm-debug.log*
+
+# Yarn lock files (if you're using Yarn)
+yarn-error.log
+.yarn-integrity
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build output
+/dist
+/build
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# Coverage directory for code coverage tools like Istanbul
+coverage/
+
+# Miscellaneous
+*.tgz
